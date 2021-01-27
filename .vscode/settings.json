@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "hyphen_string.C": "cpp",
+        "typdef.C": "cpp",
+        "print_enum.C": "cpp",
+        "variable.C": "cpp",
+        "typealias.C": "cpp",
+        "lab1.C": "cpp",
+        "while.C": "cpp",
+        "calculator.C": "cpp",
+        "prog.C": "cpp",
+        "reverseString.C": "cpp",
+        "factoorial.C": "cpp",
+        "library.C": "cpp"
+    }
+}
